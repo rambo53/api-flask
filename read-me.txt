@@ -2,10 +2,6 @@
 
 Pour démarrer mon projet Flask.
 
-- pip install Flask-JSON
-
-Pour faciliter mes échanges JSON avec flask.
-
 - pip install -U flask-cors
 
 Pour authoriser le cors sur les requêtes de mon API, ajoute dans mon header "allow..."
